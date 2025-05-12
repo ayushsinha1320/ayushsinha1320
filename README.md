@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Sinha</h1>
 <h3 align="center">A passionate SDET from TestVagrant.</h3>
 
-- 🔭 I’m currently working on [WDIO Mobile Automation](https://github.com/ayushsinha1320/WDIO-Mobile-Automation)
+- 🔭 I’m currently working on [PDF-Parser](https://github.com/ayushsinha1320/pdf-parser)
 
 - 🌱 I’m currently learning **WDIO,Playwright,Javascript and TypeScript**
 
